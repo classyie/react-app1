@@ -1,0 +1,15 @@
+.card{
+  /* text-align: center; */
+  width: 500px;
+  border: 1px solid hsla(0, 0%, 0%, 0.466);
+  padding: 10px;
+  border-radius: 10px;
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.mypic{
+  max-width: 40%;
+  border-radius: 50%;
+}
